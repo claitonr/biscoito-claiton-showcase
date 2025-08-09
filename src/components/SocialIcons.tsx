@@ -14,7 +14,7 @@ const SocialIcons = () => {
       </a>
       
       <a 
-        href="https://www.linkedin.com/in/~claiton" 
+        href="https://www.linkedin.com/in/claiton-roberto-5812a39b/" 
         target="_blank" 
         rel="noopener noreferrer"
         className="social-icon"
