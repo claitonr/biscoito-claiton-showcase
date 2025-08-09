@@ -9,7 +9,7 @@ const Index = () => {
       
       <main className="flex-1 flex items-center justify-center px-6">
         <div className="text-center">
-          <h1 className="main-title mb-2">claiton</h1>
+          <h1 className="main-title mb-2">Claiton</h1>
           <SocialIcons />
         </div>
       </main>

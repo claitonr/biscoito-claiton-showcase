@@ -3,7 +3,7 @@ const Header = () => {
     <header className="w-full py-6 px-6">
       <div className="max-w-6xl mx-auto flex justify-between items-center">
         <h1 className="text-2xl font-normal text-foreground tracking-wide">
-          claiton
+          Claiton
         </h1>
         <nav>
           <a 
