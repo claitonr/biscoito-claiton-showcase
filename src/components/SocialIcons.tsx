@@ -24,7 +24,7 @@ const SocialIcons = () => {
       </a>
       
       <a 
-        href="mailto:eu@claiton.dev" 
+        href="mailto:claiton@duck.com" 
         className="social-icon"
         aria-label="Email"
       >
